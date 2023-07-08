@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KGushchin.github.io/static/css/main.82878f7f.css",
+    "main.js": "/KGushchin.github.io/static/js/main.b88b5d36.js",
+    "static/js/787.b701888c.chunk.js": "/KGushchin.github.io/static/js/787.b701888c.chunk.js",
+    "static/media/харам.gif": "/KGushchin.github.io/static/media/харам.2780090e938886ecef82.gif",
+    "static/media/findicon.png": "/KGushchin.github.io/static/media/findicon.11fe952de599e616c7f9.png",
+    "index.html": "/KGushchin.github.io/index.html",
+    "main.82878f7f.css.map": "/KGushchin.github.io/static/css/main.82878f7f.css.map",
+    "main.b88b5d36.js.map": "/KGushchin.github.io/static/js/main.b88b5d36.js.map",
+    "787.b701888c.chunk.js.map": "/KGushchin.github.io/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82878f7f.css",
+    "static/js/main.b88b5d36.js"
+  ]
+}
